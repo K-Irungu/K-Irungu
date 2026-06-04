@@ -1,6 +1,6 @@
 # Kevin Irungu
 
-I am a software engineer based in Nairobi, Kenya. I build backend systems that make products work **well** and I am deeply invested in system architecture and design.
+I am a software engineer based in Nairobi, Kenya. I build systems that make products work **well** and I am deeply invested in system architecture and design.
 
 ## Tech
 
